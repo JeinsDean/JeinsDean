@@ -1,5 +1,4 @@
 ## 👋 반갑습니다!
-[![Notion Badge](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://www.notion.so/709a98e93a0a487eae1d8ede376b1612)](https://www.notion.so/709a98e93a0a487eae1d8ede376b1612)
 
 * 👨‍💻 아직 배울게 많은 주니어 웹 백엔드 엔지니어입니다.
 * 👀 사용자를 생각하며 서비스의 안정성과 성능 향상에 관심이 많습니다.
