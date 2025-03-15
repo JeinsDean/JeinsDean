@@ -1,6 +1,6 @@
 ## 👋 반갑습니다!
 
-* 👨‍💻 아직 배울게 많은 주니어 웹 백엔드 엔지니어입니다.
+* 👨‍💻 아직 배울게 많은 주니어 백엔드 엔지니어입니다.
 * 👀 사용자를 생각하며 서비스의 안정성과 성능 향상에 관심이 많습니다.
 * 🐱‍🏍 나만의 일을 찾기위해 열심히 노력중입니다.
 
@@ -10,6 +10,6 @@
 
 <br/><br/>
 
-### 🏅 Algorithm Silver Level. 
+### 🏅 Algorithm Glod Level. 
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=JeinsDean)](https://solved.ac/JeinsDean/) 
